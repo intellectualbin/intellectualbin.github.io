@@ -43,7 +43,7 @@ googlescholar_username: abeluberdy
 # about_title: This is about my title section (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  This is an awesome description about myself right here, which supports markdown, so I add [links](http://abeluberdy.com) and highlight things <mark>like this</abeluberdy>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -52,13 +52,13 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects # Beluberdy X Projects
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Project XYZ
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -72,11 +72,11 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+  - title: Super Humble Assistant
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: Humble People Limited
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
