@@ -6,14 +6,14 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Alex Beluberdy
-title: Humble Assistant
+name: Alex Beluberdy III Junior
+title: Humble 3rd Assistant to Secretary
 email: alex@beluberdy.email (optional)
-# email_title: Work email (Email title override)
+email_title: Work email (Email title override)
 phone: +123456789 (optional)
-# phone_title: Landline (Phone title override)
+phone_title: Landline (Phone title override)
 website: https://mywebsite.com (eg. https://google.com)(optional)
-# website_title: Corporate website (Website title override)
+website_title: Corporate website (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -40,9 +40,9 @@ googlescholar_username: abeluberdy
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: This is about my title section (Use this to override about section title)
+about_title: This is about my title section (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
+about_content: | New lines to allow paragraphs
   This is an awesome description about myself right here, which supports markdown, so I add [links](http://abeluberdy.com) and highlight things <mark>like this</abeluberdy>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Beluberdy X Projects
+  - title: Projects Beluberdy X Projects
     layout: list # Type of content section (list/text)
     content:
       - layout: left
