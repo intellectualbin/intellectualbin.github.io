@@ -42,7 +42,7 @@ googlescholar_username: abeluberdy
 # About Section
 about_title: This is about my title section (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | New lines to allow paragraphs
+about_content: 
   This is an awesome description about myself right here, which supports markdown, so I add [links](http://abeluberdy.com) and highlight things <mark>like this</abeluberdy>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
