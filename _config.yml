@@ -12,7 +12,7 @@ email: alex@beluberdy.email.com
 email_title: Electric Mail
 phone: +12345678987654321
 phone_title: Mars Landline Switchboard
-website: https://mywebsite.com
+website: https://intellectualbin.github.io/map.html
 website_title: Corporate Site on World Wide Web
 
 # Dark Mode (true/false/never)
@@ -52,14 +52,14 @@ about_content:
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects Beluberdy X Projects
+  - title: Projects Beluberdy SG Map Point Project
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project XYZ
-        link: projectXYZ.com
+        title: Point on SG Map
+        link: https://intellectualbin.github.io/map.html
         link_text: Direct Link
         additional_links:
           - title:  Github page for project is NOT available
@@ -67,7 +67,7 @@ content:
             url: projectXYZ.com
           - title:  Github page for project
             icon: fab fa-github
-            url: projectXYZ
+            url: https://intellectualbin.github.io/map.html
         quote: >
           Very long and detailed overview of the project
         description: | # this will include new lines to allow paragraphs
